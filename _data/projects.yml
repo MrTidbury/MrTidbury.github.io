@@ -1,0 +1,17 @@
+- name: The Gear GG Discord Bot
+  gh_user: MrTidbury
+  repo: TheGearGGDiscordBot
+  img: https://top.gg/images/dblnew.png
+  desc: A Discord bot that allows for the easy management of DatHost hosted Counter Strike servers
+
+- name: Tidbury Tots Invoice Application
+  gh_user: MrTidbury
+  repo: Tidbury-Tots-Invoice-App
+  img: https://trevorfox.com/wp-content/uploads/2017/01/google-apps-script-1-e1485783800848.png
+  desc: Google AppScript Application that uses GCS and Gmail to create, save and send invoices for a Childmining Company.
+
+- name: Github Link Generator
+  gh_user: MrTidbury
+  repo: GithubLinkGenerator
+  img: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  desc: Small Chrome Extension that pastes a context aware github link into Jira Fields, using the currently viewed Jira Version.

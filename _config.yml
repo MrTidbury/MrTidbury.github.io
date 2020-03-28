@@ -1,0 +1,33 @@
+# Site settings
+title: Jack Tidbury
+description: 'Personal Portfolio'
+url: 'http://tidbury.io'
+baseurl: ''
+profilepic: '/images/jack.png'
+bkimage: '/images/bk1.jpg'
+font_awesome: '7918c4ef3e.js'
+
+author:
+  name: 'Jack Tidbury'
+  email: mrtidbury@gmail.com
+  twitter_username: jacktidbury
+  github_username:  MrTidbury
+  linkedin_username:  jacktidbury
+
+# Build settings
+destination: _site
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+#plugins: ['jekyll-paginate']
+exclude: ['README.md', 'screenshot-overview.png']
