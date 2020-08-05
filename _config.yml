@@ -4,7 +4,7 @@ description: 'Personal Portfolio'
 url: 'http://tidbury.io'
 baseurl: ''
 profilepic: '/images/jack.png'
-bkimage: '/images/bk1.jpg'
+bkimage: '/images/bk1.png'
 font_awesome: '7918c4ef3e.js'
 
 author:
